@@ -657,25 +657,19 @@
         "contract_address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
         "chain_id": 42161,
         "decimals": 18,
-        "symbol": "alUSD",
-        "next_asset": {
-          "contract_address": "0x49000f5e208349D2fA678263418e21365208E498",
-          "decimals": 18,
-          "symbol": "nextAlUSD",
-          "image": "/logos/assets/alusd.png"
-        }
+        "symbol": "alUSD"
       },
       {
         "contract_address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
         "chain_id": 10,
         "decimals": 18,
-        "symbol": "alUSD",
-        "next_asset": {
-          "contract_address": "0x49000f5e208349D2fA678263418e21365208E498",
-          "decimals": 18,
-          "symbol": "nextAlUSD",
-          "image": "/logos/assets/alusd.png"
-        }
+        "symbol": "alUSD"
+      },
+      {
+        "contract_address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+        "chain_id": 1088,
+        "decimals": 18,
+        "symbol": "alUSD"
       }
     ],
     "color": "#000000",
@@ -698,25 +692,19 @@
         "contract_address": "0x17573150d67d820542EFb24210371545a4868B03",
         "chain_id": 42161,
         "decimals": 18,
-        "symbol": "alETH",
-        "next_asset": {
-          "contract_address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
-          "decimals": 18,
-          "symbol": "nextAlETH",
-          "image": "/logos/assets/aleth.png"
-        }
+        "symbol": "alETH"
       },
       {
         "contract_address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
         "chain_id": 10,
         "decimals": 18,
-        "symbol": "alETH",
-        "next_asset": {
-          "contract_address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
-          "decimals": 18,
-          "symbol": "nextAlETH",
-          "image": "/logos/assets/aleth.png"
-        }
+        "symbol": "alETH"
+      },
+      {
+        "contract_address": "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
+        "chain_id": 1088,
+        "decimals": 18,
+        "symbol": "alETH"
       }
     ],
     "color": "#000000",
